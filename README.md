@@ -1,4 +1,4 @@
-# Data Science Studies 📚⚡
+# Data Science Studies 📚
 
 This repository is my learning log for **Data Science** and **Machine Learning** while studying **Electrical Engineering (UFF)**.  
 It’s a structured space where I test ideas, build small experiments, and turn curiosity into reproducible notebooks and scripts.
@@ -64,3 +64,5 @@ I’m especially interested in projects involving:
 - **GitHub: @alpseng**
 - **Email: alpsantos.dev@gmail.com**
 - **Institucional email: alpsantos@id.uff.br**
+
+Thanks for stopping by — this repo is a work in progress, and the progress is the point.
