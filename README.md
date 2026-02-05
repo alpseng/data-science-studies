@@ -26,15 +26,22 @@ My long-term goal is to apply AI/ML to real engineering problems (automation, mo
 I usually work with a Conda environment called `estudos`.
 
 1. Create/activate the environment:
+ ```bash
    conda activate estudos
+  ```
 
 2. (Optional) Install dependencies:
+ ```bash
     pip install -r requirements.txt
+  ```
 If requirements.txt is not present yet, I install libraries as needed while studying.
 
 3. Open notebooks:
 VS Code (recommended): open the repo and run notebooks with the selected interpreter or Jupyter:
-  jupyter notebook  
+ ```bash
+  jupyter notebook
+  ```
+
 
 ## Current focus
 
