@@ -64,3 +64,5 @@ I’m especially interested in projects involving:
 - **GitHub: @alpseng**
 - **Email: alpsantos.dev@gmail.com**
 - **Institucional email: alpsantos@id.uff.br**
+
+Thanks for stopping by — this repo is a work in progress, and the progress is the point.
