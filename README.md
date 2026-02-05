@@ -1,4 +1,4 @@
-# Data Science Studies 📚⚡
+# Data Science Studies 📚
 
 This repository is my learning log for **Data Science** and **Machine Learning** while studying **Electrical Engineering (UFF)**.  
 It’s a structured space where I test ideas, build small experiments, and turn curiosity into reproducible notebooks and scripts.
